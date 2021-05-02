@@ -19,15 +19,15 @@ Kalau melawan berarti kau anak boedjank💪💪 </h1>
 - Crack Dari  ID Daftar Teman
 - Crack Dari  ID Daftar Teman Publik
 - Ambil ID
-
+```
 
 <h7 align="center">
 - Mutli type login use token
 
 ```
 <h8 align="center">
+
 ### Install
-```
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
@@ -36,6 +36,7 @@ $ pip2 install mechanize
 $ git clone https://github.com/Gie290/hackfb
 ```
 <h9 align="center">
+
 ### Run this script
 ```
 <h9 align="center">
