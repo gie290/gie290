@@ -21,8 +21,9 @@ Kalau melawan berarti kau anak boedjank💪💪 </h1>
 - Ambil ID
 ```
 - Mutli type login use token
-```
+
 ### Install
+
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
@@ -31,6 +32,7 @@ $ pip2 install mechanize
 $ git clone https://github.com/Gie290/hackfb
 ```
 ### Run this script
+
 cd hackfb
 ls
 python2 hackfb.py
