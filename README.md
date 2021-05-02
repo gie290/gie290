@@ -20,13 +20,8 @@ Kalau melawan berarti kau anak boedjank💪💪 </h1>
 - Crack Dari  ID Daftar Teman Publik
 - Ambil ID
 ```
-
-<h7 align="center">
 - Mutli type login use token
-
 ```
-<h8 align="center">
-
 ### Install
 $ pkg update && pkg upgrade
 $ pkg install python2
