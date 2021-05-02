@@ -6,13 +6,10 @@
 
 
 <img src="https://github.com/Gie290/hackfb/blob/main/IMG_20201228_195926.jpg" />
-
-<h5 align="center">
+```
 💪💪💪Selamat datang di hackfacebook
 Gunakan dengan bijak dan jangan melawan orang tua..
 Kalau melawan berarti kau anak boedjank💪💪
-
-
 
 ### Fitures
 ```
