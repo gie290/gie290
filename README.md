@@ -4,8 +4,6 @@
 <h4 align="center">
   Jangan Lupa Istigfar
 
-
-<img src="https://github.com/Gie290/hackfb/blob/main/IMG_20201228_195926.jpg" />
 ```
 💪💪💪Selamat datang di hackfacebook
 Gunakan dengan bijak dan jangan melawan orang tua..
