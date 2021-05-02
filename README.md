@@ -7,11 +7,12 @@
 
 <img src="https://github.com/Gie290/hackfb/blob/main/IMG_20201228_195926.jpg" />
 
-<h1 align="center">
+<h5 align="center">
 💪💪💪Selamat datang di hackfacebook
 Gunakan dengan bijak dan jangan melawan orang tua..
 Kalau melawan berarti kau anak boedjank💪💪 </h1>
 ```
+<h6 align="center">
 ### Fitures
 ```
 - Crack Dari  ID Grub
@@ -20,9 +21,11 @@ Kalau melawan berarti kau anak boedjank💪💪 </h1>
 - Ambil ID
 
 
+<h7 align="center">
 - Mutli type login use token
 
 ```
+<h8 align="center">
 ### Install
 ```
 $ pkg update && pkg upgrade
@@ -32,8 +35,11 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ git clone https://github.com/Bangbadruyt/hackfb
 ```
+<h9 align="center">
 ### Run this script
 ```
+<h9 align="center">
 cd hackfb
 ls
 python2 hackfb.py
+[Succes]
