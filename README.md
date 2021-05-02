@@ -31,7 +31,7 @@ $ pkg install git
 $ pip2 install requests
 $ pip2 install mechanize
 $ git clone https://github.com/Gie290/hackfb
-```
+
 ### Run this script
 
 cd hackfb
