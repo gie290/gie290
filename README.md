@@ -30,11 +30,7 @@ $ pip2 install requests
 $ pip2 install mechanize
 $ git clone https://github.com/Gie290/hackfb
 ```
-<h9 align="center">
-
 ### Run this script
-```
-<h9 align="center">
 cd hackfb
 ls
 python2 hackfb.py
